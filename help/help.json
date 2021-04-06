@@ -1,0 +1,42 @@
+[
+  {
+    "title_ar": "كيفية تسجيل الدخول إلى حسابك مسار؟",
+    "title_fr": "Comment vous connecter à votre compte Massar?",
+    "subtitle_ar": "1- ستحتاج إلى رقم مسار الخاص بك، يتم تسليمه لك من طرف إدارة مؤسستك أو يمكنك إيجاده مكتوبا في ورقة النتائج. يكون رقم مسار على هذا الشكل (M123456789).\n\n2- ستحتاج إلى كلمة المرور المسلمة لك من طرف إدارة مؤسستك.\n\n3- في تطبيق مسار الخاص بنا، توجه إلى الصفحة الرئيسية وقم بإدخال رقم مسار الخاص بك متبوعا بـ taalim.ma@ ، في الخانة الثانية، قم بإدخال كلمة المرور الخاصة بك.\n\n4- تم تسجيل الدخول بنجاح.",
+    "subtitle_fr": "1- Vous aurez besoin de votre numéro de chemin, qui vous sera donné par l\u0027administration de votre organisation, ou vous pouvez le trouver écrit dans la feuille de résultats. Le numéro de piste est comme ça (M123456789).\n\n2- Vous aurez besoin du mot de passe qui vous a été donné par l\u0027administration de votre établissement.\n\n3- Dans notre application, allez sur la page d\u0027accueil et entrez votre numéro Masar suivi de @taalim.ma et dans la deuxième case, entrez votre mot de passe.\n\n4- Vous êtes connecté.",
+    "image": "https://nerbly.com/moutamadris/help/media/img1.jpg",
+    "isTitled": "true",
+    "isSubtitled": "true",
+    "isImaged": "false"
+  },
+  {
+    "title_ar": "كيفية الإطلاع على نقاطي؟",
+    "title_fr": "Comment consulter mes notes?",
+    "subtitle_ar": "1- بعد إتباعك للخطوات أعلاه وتسجيل الدخول لحسابك، في تطبيق مسار، إضغط على الأيقونة في أعلى اليمين:",
+    "subtitle_fr": "1- Après avoir suivi les étapes ci-dessus et vous être connecté à votre compte, dans notre application Massar, cliquez sur l\u0027icône en haut à droite:",
+    "image": "https://nerbly.com/moutamadris/help/media/img2.jpg",
+    "isTitled": "true",
+    "isSubtitled": "true",
+    "isImaged": "true"
+  },
+  {
+    "title_ar": "كيفية الإطلاع على نقاطي؟",
+    "title_fr": "Comment consulter mes notes?",
+    "subtitle_ar": "2- إضغط على \"التمدرس\"",
+    "subtitle_fr": "2- Cliquez sur \"Scolarite\"",
+    "image": "https://nerbly.com/moutamadris/help/media/img3.jpg",
+    "isTitled": "false",
+    "isSubtitled": "true",
+    "isImaged": "true"
+  },
+  {
+    "title_ar": "nullstr",
+    "title_fr": "Comment consulter mes notes?",
+    "subtitle_ar": "3- أخيرا إضغط على \"تتبع النقط\"",
+    "subtitle_fr": "3- Enfin, cliquez sur \"Mes notes\"",
+    "image": "https://nerbly.com/moutamadris/help/media/img4.jpg",
+    "isTitled": "false",
+    "isSubtitled": "true",
+    "isImaged": "true"
+  }
+]
