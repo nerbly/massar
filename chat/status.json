@@ -1,7 +1,15 @@
 {
   "allowed_version": "1.28",
-  "status": "false",
-  "status2": "true",
+  "status": "true",
+  "elementary_status": "true",
+  "preparatory_status": "true",
+  "secondary_status": "true",
+
+
+  "isAudioEnabled": "true",
+
+
+
   "title": "تحت الصيانة",
   "subtitle": "عذرا، منصة مجتمع مسار تحت الصيانة، ستعود للعمل خلال دقائق."
 }
