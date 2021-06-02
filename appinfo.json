@@ -9,6 +9,8 @@
   "isAudioEnabled": true,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
+  "title": "في إنتظار وصول التحديث",
+  "subtitle": "عذرا، إضطررنا لوقف مجتمع مسار مؤقتا حتى يتم نشر التحديث الجديد لإصلاح مشاكل مجتمع مسار. سيتوفر الإصدار الجديد خلال ساعات. شكرا."
 
   "verified_users": [
     "no one"
