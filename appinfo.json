@@ -3,13 +3,13 @@
   "allowed_version": 1.0,
   "chat_status": true,
   "elementary_status": true,
-  "preparatory_status": true,
+  "preparatory_status": false,
   "secondary_status": true,
   "isAudioEnabled": true,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
-  "title": "في إنتظار وصول التحديث",
-  "subtitle": "عذرا، إضطررنا لوقف مجتمع مسار مؤقتا حتى يتم نشر التحديث الجديد لإصلاح مشاكل مجتمع مسار. سيتوفر الإصدار الجديد خلال ساعات. شكرا.",
+  "title": "مجتمع مسار متوقف مؤقتا",
+  "subtitle": "بسبب كثرة الكلام البذيء، مجتمع مسار سيتوقف حتى يتم إضافة خاصية جديدة لحظر كل شخص مخالف لقوانين المجتمع.",
 
 
   "verified_users": [
