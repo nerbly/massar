@@ -1,7 +1,7 @@
 {
   "app_status": true,
   "allowed_version": 2.1,
-  "chat_status": true,
+  "chat_status": false,
   "elementary_status": true,
   "preparatory_status": true,
   "secondary_status": true,
