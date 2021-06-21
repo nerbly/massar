@@ -6,6 +6,7 @@
   "preparatory_status": true,
   "secondary_status": true,
   "isAudioEnabled": true,
+  "isGIFEnabled": true,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
   "title": "مجتمع مسار يواجه ضغطا كبيرا حاليا",
