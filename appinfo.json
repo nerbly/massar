@@ -11,18 +11,18 @@
   "isCommunicatingThroughAPI": true,
   "title": "تحت الصيانة",
   "subtitle": "نحن نقوم ببعض الإصلاحات على مجتمع مسار، سيعود للعمل قريبا.",
+  
   "verified_users": [
-    "27390141cbf2dc0c",
+    "27390141cbf2dc0c"
   ],
    "identity_checked_users": [
     "39e0d91590ee6997",
     "6f352c7541d8593f",
-    "970d20fed54d2e12",
     "27390141cbf2dc0c"
   ],
     "loved_users": [
     "VieSoO1mPXhOftKetFYu4u19ehW2",
-     "xWCSnRYwW8PR8WOdupAesOv0SwN2",
+    "xWCSnRYwW8PR8WOdupAesOv0SwN2",
     "txmWsWx01gRX1BuUAfHzjfu5F6G3"
   ],
   "crowned_users": [
@@ -49,6 +49,7 @@
   "banned_users": [
     "b891c7208f709be9",
     "2ecf040694bb473d",
+    "970d20fed54d2e12",
     "9c9ffee327178ba9"
   ],
   "active_users": [
