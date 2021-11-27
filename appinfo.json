@@ -3,7 +3,7 @@
   "allowed_version": 83,
   "chat_status": true,
   "elementary_status": true,
-  "preparatory_status": true,
+  "preparatory_status": false,
   "secondary_status": true,
   "isAudioEnabled": true,
   "isGIFEnabled": true,
