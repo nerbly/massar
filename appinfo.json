@@ -8,9 +8,9 @@
   "preparatory_status": true,
   "secondary_status": true,
   
-  "isElementarySnackbarShowing": true,
+  "isElementarySnackbarShowing": false,
   "isPreparatorySnackbarShowing": true,
-  "isSecondarySnackbarShowing": true,
+  "isSecondarySnackbarShowing": false,
   "elementarySnackbarTitle": "title",
   "elementarySnackbarDesc": "desc",
   "preparatorySnackbarTitle": "title",
