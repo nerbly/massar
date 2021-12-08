@@ -1,14 +1,28 @@
 {
   "app_status": true,
   "allowed_version": 88,
+  
   "chat_status": true,
+  
   "elementary_status": true,
   "preparatory_status": true,
   "secondary_status": true,
+  
+  "isElementarySnackbarShowing": true,
+  "isPreparatorySnackbarShowing": true,
+  "isSecondarySnackbarShowing": true,
+  "elementarySnackbarTitle": "title",
+  "elementarySnackbarDesc": "desc",
+  "preparatorySnackbarTitle": "title",
+  "preparatorySnackbarDesc": "desc",
+  "secondarySnackbarTitle": "title",
+  "secondarySnackbarDesc": "desc",
+  
   "isAudioEnabled": true,
   "isGIFEnabled": true,
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
+  
   "title": "تحت الصيانة",
   "subtitle": "نحن نقوم ببعض الإصلاحات على مجتمع مسار، سيعود للعمل قريبا.",
   
