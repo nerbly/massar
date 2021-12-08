@@ -10,15 +10,23 @@
   "secondary_status": true,
   
   "isElementarySnackbarShowing": false,
-  "isPreparatorySnackbarShowing": true,
-  "isSecondarySnackbarShowing": false,
-  "elementarySnackbarTitle": "title",
-  "elementarySnackbarDesc": "desc",
-  "preparatorySnackbarTitle": "title",
-  "preparatorySnackbarDesc": "desc",
-  "secondarySnackbarTitle": "title",
-  "secondarySnackbarDesc": "desc",
+  "elementarySnackbarTitle": "إصدار جديد من مجتمع مسار",
+  "elementarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
+  "isPreparatorySnackbarShowing": false,
+  "preparatorySnackbarTitle": "إصدار جديد من مجتمع مسار",
+  "preparatorySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
+  
+  "isSecondarySnackbarShowing": false,
+  "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
+  "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
+  
+  "isSnackbarShowingGlobally": true,
+  "globalSnackbarTitle": "إصدار جديد من مجتمع مسار",
+  "globalSnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
+  
+  
+
   "isAudioEnabled": true,
   "isGIFEnabled": true,
   "isImageEnabled": true,
