@@ -10,18 +10,22 @@
   "secondary_status": true,
   
   "isElementarySnackbarShowing": false,
+  "isElementarySnackbarClickable": false,  
   "elementarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "elementarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
   "isPreparatorySnackbarShowing": false,
+  "isPreparatorySnackbarClickable": false,  
   "preparatorySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "preparatorySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
   "isSecondarySnackbarShowing": false,
+  "isSecondarySnackbarClickable": false,
   "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
   "isSnackbarShowingGlobally": true,
+  "isGlobalSnackbarClickable": false,
   "globalSnackbarTitle": "إصدار جديد من مجتمع مسار",
   "globalSnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
