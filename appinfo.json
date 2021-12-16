@@ -10,25 +10,30 @@
   "secondary_status": true,
   
   "isElementarySnackbarShowing": false,
-  "isElementarySnackbarClickable": false,  
+  "isElementarySnackbarClickable": true,  
+  "isElementarySnackbarClickable": true, 
   "elementaryNotificationSnackbarGoTo": "google.com",
   "elementarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "elementarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
   "isPreparatorySnackbarShowing": false,
-  "isPreparatorySnackbarClickable": false,  
+  "isPreparatorySnackbarClickable": false, 
+  "isPreparatorySnackbarBrowsable": true, 
   "preparatoryNotificationSnackbarGoTo": "google.com",
   "preparatorySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "preparatorySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
   "isSecondarySnackbarShowing": false,
   "isSecondarySnackbarClickable": false,
+  "isSecondarySnackbarBrowsable": true, 
   "secondaryNotificationSnackbarGoTo": "google.com",
   "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
   "isSnackbarShowingGlobally": true,
   "isGlobalSnackbarClickable": false,
+  "isGlobalSnackbarBrowsable": true, 
+  "globalNotificationSnackbarGoTo": "google.com",
   "globalSnackbarTitle": "إصدار جديد من مجتمع مسار",
   "globalSnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
