@@ -11,16 +11,19 @@
   
   "isElementarySnackbarShowing": false,
   "isElementarySnackbarClickable": false,  
+  "elementaryNotificationSnackbarGoTo": "google.com",
   "elementarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "elementarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
   "isPreparatorySnackbarShowing": false,
   "isPreparatorySnackbarClickable": false,  
+  "preparatoryNotificationSnackbarGoTo": "google.com",
   "preparatorySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "preparatorySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
   "isSecondarySnackbarShowing": false,
   "isSecondarySnackbarClickable": false,
+  "secondaryNotificationSnackbarGoTo": "google.com",
   "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
