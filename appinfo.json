@@ -11,7 +11,7 @@
   
   "isElementarySnackbarShowing": false,
   "isElementarySnackbarClickable": false,  
-  "isElementarySnackbarClickable": false, 
+  "isElementarySnackbarBrowsable": false, 
   "elementaryNotificationSnackbarGoTo": "google.com",
   "elementarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "elementarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
