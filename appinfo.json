@@ -30,7 +30,7 @@
   "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
-  "isSnackbarShowingGlobally": true,
+  "isSnackbarShowingGlobally": false,
   "isGlobalSnackbarClickable": true,
   "isGlobalSnackbarBrowsable": false, 
   "globalNotificationSnackbarGoTo": "https://google.com",
