@@ -1,6 +1,6 @@
 {
   "app_status": true,
-  "allowed_version": 88,
+  "allowed_version": 89,
   "shouldBanRootedDevices": true,
   
   "chat_status": true,
@@ -30,7 +30,7 @@
   "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   
-  "isSnackbarShowingGlobally": false,
+  "isSnackbarShowingGlobally": true,
   "isGlobalSnackbarClickable": true,
   "isGlobalSnackbarBrowsable": false, 
   "globalNotificationSnackbarGoTo": "https://google.com",
