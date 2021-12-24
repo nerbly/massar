@@ -1,6 +1,6 @@
 {
   "app_status": true,
-  "allowed_version": 89,
+  "allowed_version": 90,
   "shouldBanRootedDevices": true,
   
   "chat_status": true,
