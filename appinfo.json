@@ -3,7 +3,7 @@
   "allowed_version": 91,
   "shouldBanRootedDevices": true,
   
-  "chat_status": true,
+  "chat_status": false,
   
   "elementary_status": true,
   "preparatory_status": false,
