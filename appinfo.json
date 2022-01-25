@@ -6,7 +6,7 @@
   "chat_status": true,
   
   "elementary_status": true,
-  "preparatory_status": true,
+  "preparatory_status": false,
   "secondary_status": true,
   
   "isElementarySnackbarShowing": false,
@@ -43,8 +43,8 @@
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
   
-  "title": "تحت الصيانة",
-  "subtitle": "نحن نقوم ببعض الإصلاحات على مجتمع مسار، سيعود للعمل قريبا.",
+  "title": "تحت وقف مجتمع مسار",
+  "subtitle": "نحن نقوم حاليا بحظر جميع مخالفي قوانين مجتمع مسار، سيعود للعمل خلال دقائق.",
   
   
   "verified_users": [
