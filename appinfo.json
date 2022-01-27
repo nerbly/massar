@@ -6,7 +6,7 @@
   "chat_status": true,
   
   "elementary_status": true,
-  "preparatory_status": false,
+  "preparatory_status": true,
   "secondary_status": true,
   
   "isElementarySnackbarShowing": false,
