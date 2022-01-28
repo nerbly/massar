@@ -6,29 +6,34 @@
   "elementary_status": true,
   "preparatory_status": true,
   "secondary_status": true,
+  
   "isElementarySnackbarShowing": false,
   "isElementarySnackbarClickable": false,
   "isElementarySnackbarBrowsable": false,
   "elementaryNotificationSnackbarGoTo": "google.com",
   "elementarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "elementarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
+
   "isPreparatorySnackbarShowing": true,
   "isPreparatorySnackbarClickable": false,
   "isPreparatorySnackbarBrowsable": false,
   "preparatoryNotificationSnackbarGoTo": "google.com",
   "preparatorySnackbarTitle": "تنبيه",
   "preparatorySnackbarDesc": "المرجو إحترام جميع التلاميذ في مجتمع مسار أو سيتم حظرك من مجتمع مسار نهائيا. يرجى التبليغ عن أي مخالفات عبر الضغط مطولا على الرسائل.",
+ 
   "isSecondarySnackbarShowing": false,
   "isSecondarySnackbarClickable": false,
   "isSecondarySnackbarBrowsable": false,
   "secondaryNotificationSnackbarGoTo": "google.com",
   "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
+
   "isSnackbarShowingGlobally": false,
   "isGlobalSnackbarClickable": true,
   "isGlobalSnackbarBrowsable": false,
   "globalNotificationSnackbarGoTo": "https://google.com",
   "globalSnackbarTitle": "إصدار جديد من مجتمع مسار",
+
   "globalSnackbarDesc": "نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
   "isAudioEnabled": true,
   "isGIFEnabled": true,
@@ -36,8 +41,9 @@
   "isCommunicatingThroughAPI": true,
   "title": "تحت وقف مجتمع مسار",
   "subtitle": "نحن نقوم حاليا بحظر جميع مخالفي قوانين مجتمع مسار، سيعود للعمل خلال دقائق.",
+
   "verified_users": [
-    "6d4e96e38ed5ec26"
+    "hey"
   ],
   "identity_checked_users": [
     "hello_world"
