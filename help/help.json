@@ -3,7 +3,7 @@
     "title_ar": "كيفية تسجيل الدخول إلى حسابك مسار؟",
     "title_fr": "Comment vous connecter à votre compte Massar?",
     "subtitle_ar": "1- ستحتاج إلى رقم مسار الخاص بك، يتم تسليمه لك من طرف إدارة مؤسستك أو يمكنك إيجاده مكتوبا في ورقة النتائج. يكون رقم مسار على هذا الشكل (M123456789).\n\n2- ستحتاج إلى كلمة المرور المسلمة لك من طرف إدارة مؤسستك.\n\n3- في تطبيق مسار الخاص بنا، توجه إلى الصفحة الرئيسية وقم بإدخال رقم مسار الخاص بك متبوعا بـ taalim.ma@ ، في الخانة الثانية، قم بإدخال كلمة المرور الخاصة بك.\n\n4- تم تسجيل الدخول بنجاح.",
-    "subtitle_fr": "1- Vous aurez besoin de votre numéro de chemin, qui vous sera donné par l\u0027administration de votre organisation, ou vous pouvez le trouver écrit dans la feuille de résultats. Le numéro de piste est comme ça (M123456789).\n\n2- Vous aurez besoin du mot de passe qui vous a été donné par l\u0027administration de votre établissement.\n\n3- Dans notre application, allez sur la page d\u0027accueil et entrez votre numéro Masar suivi de @taalim.ma et dans la deuxième case, entrez votre mot de passe.\n\n4- Vous êtes connecté.",
+    "subtitle_fr": "1- Vous aurez besoin de votre numéro de chemin, qui vous sera donné par l'administration de votre organisation, ou vous pouvez le trouver écrit dans la feuille de résultats. Le numéro de piste est comme ça (M123456789).\n\n2- Vous aurez besoin du mot de passe qui vous a été donné par l'administration de votre établissement.\n\n3- Dans notre application, allez sur la page d'accueil et entrez votre numéro Masar suivi de @taalim.ma et dans la deuxième case, entrez votre mot de passe.\n\n4- Vous êtes connecté.",
     "image": "https://nerbly.github.io/massar/help/media/img1.jpg",
     "isTitled": "true",
     "isSubtitled": "true",
@@ -13,7 +13,7 @@
     "title_ar": "كيفية الإطلاع على نقاطي؟",
     "title_fr": "Comment consulter mes notes?",
     "subtitle_ar": "1- بعد إتباعك للخطوات أعلاه وتسجيل الدخول لحسابك، في تطبيق مسار، إضغط على الأيقونة في أعلى اليمين:",
-    "subtitle_fr": "1- Après avoir suivi les étapes ci-dessus et vous être connecté à votre compte, dans notre application Massar, cliquez sur l\u0027icône en haut à droite:",
+    "subtitle_fr": "1- Après avoir suivi les étapes ci-dessus et vous être connecté à votre compte, dans notre application Massar, cliquez sur l'icône en haut à droite:",
     "image": "https://nerbly.github.io/massar/help/media/img2.jpg",
     "isTitled": "true",
     "isSubtitled": "true",
@@ -36,6 +36,16 @@
     "subtitle_fr": "3- Enfin, cliquez sur \"Mes notes\"",
     "image": "https://nerbly.github.io/massar/help/media/img4.jpg",
     "isTitled": "false",
+    "isSubtitled": "true",
+    "isImaged": "true"
+  },
+  {
+    "title_ar": "حل مشكل عدم إشتغال خدمة مسار على أورونج",
+    "title_fr": "Comment résoudre le problème Massar sur Orange?",
+    "subtitle_ar": "لاحظنا مؤخرا أن خدمة مسار لا تشتغل على شبكة أورونج بسبب مشكل في الشبكة. لإصلاح هذا المشكل يجب عليك تغيير الـAPN الخاص بك في هاتفك إلى orange.ma، في حالة ليست لديك خبرة في هذا المجال، يرجى التواصل مع شخص آخر ليساعدك في الأمر.",
+    "subtitle_fr": "",
+    "image": "https://nerbly.github.io/massar/help/media/img5.jpg",
+    "isTitled": "true",
     "isSubtitled": "true",
     "isImaged": "true"
   }
