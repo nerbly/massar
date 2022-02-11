@@ -4,7 +4,7 @@
   
   "shouldBanRootedDevices": true,
   "chat_status": true,
-  "elementary_status": false,
+  "elementary_status": true,
   "preparatory_status": true,
   "secondary_status": true,
   "isNSFWVerificationEnabled": true,
