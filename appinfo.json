@@ -4,7 +4,7 @@
   
   "shouldBanRootedDevices": true,
   "chat_status": true,
-  "elementary_status": true,
+  "elementary_status": false,
   "preparatory_status": true,
   "secondary_status": true,
   "isNSFWVerificationEnabled": true,
@@ -59,6 +59,7 @@
     "Teq4wGsHmwgve22x1a6NxWf1FTs2"
   ],
   "banned_users": [
+    "45f9925222f2e42e",
     "0a4329ed6b619eeb",
     "591a9fe5489f0f12",
     "f334be61c4f2df76",
