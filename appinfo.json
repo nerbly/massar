@@ -31,13 +31,13 @@
   "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
 
-  "isSnackbarShowingGlobally": false,
+  "isSnackbarShowingGlobally": true,
   "isGlobalSnackbarClickable": true,
-  "isGlobalSnackbarBrowsable": false,
-  "globalNotificationSnackbarGoTo": "https://google.com",
-  "globalSnackbarTitle": "إصدار جديد من مجتمع مسار",
+  "isGlobalSnackbarBrowsable": true,
+  "globalNotificationSnackbarGoTo": "https://vote.marocwebawards.com/candidature/2491",
+  "globalSnackbarTitle": "صوتو على تطبيقنا",
 
-  "globalSnackbarDesc": "نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
+  "globalSnackbarDesc": "مرحبا، تم ترشيح أحد تطبيقاتنا للفوز بجائزة تطبيق السنة، دقيقة من وقتك للتصويت على تطبيقنا عبر الضغط على هاته الرسالة. شكرا بزاف يلا صوتتي.",
   "isAudioEnabled": true,
   "isGIFEnabled": true,
   "isImageEnabled": true,
