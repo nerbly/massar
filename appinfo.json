@@ -2,6 +2,12 @@
   "app_status": true,
   "allowed_version": 95,
   
+  "isAudioEnabled": true,
+  "isGIFEnabled": true,
+  "isImageEnabled": true,
+  "isCommunicatingThroughAPI": true,
+  "title": "تحت وقف مجتمع مسار",
+  "subtitle": "نحن نقوم حاليا بحظر جميع مخالفي قوانين مجتمع مسار، سيعود للعمل خلال دقائق.",
   "shouldBanRootedDevices": true,
   "chat_status": true,
   "elementary_status": true,
@@ -44,14 +50,8 @@
   "globalNotificationSnackbarClassName": "com.nerbly.moutamadris.activities.VoteActivity",
   "globalNotificationSnackbarGoTo": "https://vote.marocwebawards.com/candidature/2491",
   "globalSnackbarTitle": "صوتو على تطبيقنا",
-
   "globalSnackbarDesc": "مرحبا، تم ترشيح أحد تطبيقاتنا للفوز بجائزة تطبيق السنة، دقيقة من وقتك للتصويت على تطبيقنا عبر الضغط على هاته الرسالة. شكرا بزاف يلا صوتتي.",
-  "isAudioEnabled": true,
-  "isGIFEnabled": true,
-  "isImageEnabled": true,
-  "isCommunicatingThroughAPI": true,
-  "title": "تحت وقف مجتمع مسار",
-  "subtitle": "نحن نقوم حاليا بحظر جميع مخالفي قوانين مجتمع مسار، سيعود للعمل خلال دقائق.",
+
 
   "verified_users": [
     "b42e212567d2ae92"
