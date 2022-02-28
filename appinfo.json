@@ -45,8 +45,8 @@
 
   "isSnackbarShowingGlobally": true,
   "isGlobalSnackbarClickable": true,
-  "isGlobalSnackbarBrowsable": true,
-  "isGlobalSnackbarUsingIntent": false,
+  "isGlobalSnackbarBrowsable": false,
+  "isGlobalSnackbarUsingIntent": true,
   "globalNotificationSnackbarClassName": "com.nerbly.moutamadris.activities.VoteActivity",
   "globalNotificationSnackbarGoTo": "https://vote.marocwebawards.com/candidature/2491",
   "globalSnackbarTitle": "صوتو على تطبيقنا",
