@@ -65,6 +65,9 @@
   "crowned_users": [
     "lol"
   ],
+  "active_users": [
+    "7xwJVX49bXZTmLAz0nqGh6PvoQt1"
+  ],
   "banned_users": [
     "864bc5bb63312e49",
     "af47b44f9f47c4a4",
@@ -85,9 +88,7 @@
     "898c0f01e1b9ab3c",
     "d64c5872a283c852"
   ],
-  "active_users": [
-    "lol"
-  ],
+  
   "banned_words": [
     "https://",
     "http://",
