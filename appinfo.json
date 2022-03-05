@@ -48,7 +48,7 @@
   "isGlobalSnackbarBrowsable": true,
   "isGlobalSnackbarUsingIntent": false,
   "globalNotificationSnackbarClassName": "com.nerbly.moutamadris.activities.VoteActivity",
-  "globalNotificationSnackbarGoTo": "https://vote.marocwebawards.com/candidature/2491",
+  "globalNotificationSnackbarGoTo": "https://bit.ly/3hElAs7",
   "globalSnackbarTitle": "هل تود أن تحصل على نجمة مميزة بجانب إسمك في مجتمع مسار؟",
   "globalSnackbarDesc": "يمكنك الحصول على شارة بجانب إسمك مثل تاج أو نجمة مباشرة عبر الضغط هنا ثم التصويت على تطبيقنا، يمكنك الإختيار بين العديد من الشارات المميزة.",
 
