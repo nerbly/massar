@@ -13,7 +13,7 @@
   "elementary_status": true,
   "preparatory_status": true,
   "secondary_status": true,
-  "isNSFWVerificationEnabled": true,
+  "isNSFWVerificationEnabled": false,
   "NSFWAPIKey": "891bb659-203e-4cb5-bffd-f40845d393d0",
   
   "isElementarySnackbarShowing": false,
