@@ -1,4 +1,5 @@
 {
+  "NOTE_FOR ANYONE_WHO_IS_READING_THIS": "WTF ARE YOU DOING HERE",
   "app_status": true,
   "allowed_version": 96,
   
@@ -15,6 +16,8 @@
   "secondary_status": true,
   "isNSFWVerificationEnabled": false,
   "NSFWAPIKey": "891bb659-203e-4cb5-bffd-f40845d393d0",
+  "loginToken": "XBulbiMo6T6JVfNcevxXCbqHHmCsNwSLyUXavWao",
+  "loginUrl": "https://prod.men.gov.ma/identity/GetToken",
   
   "isElementarySnackbarShowing": false,
   "isElementarySnackbarClickable": false,
