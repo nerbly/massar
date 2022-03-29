@@ -8,7 +8,7 @@
   "isImageEnabled": true,
   "isCommunicatingThroughAPI": true,
   "title": "مجتمع مسار تحت الصيانة مؤقتا",
-  "subtitle": "نحن نقوم بصيانة مجتمع مسار لمدة 15 دقيقة.",
+  "subtitle": "نحن نقوم بصيانة مجتمع مسار، سنقوم بإعلامك عند عودته للعمل إذا كنت مسجلا في  تحديثات خدمة حالة مسار.",
   "shouldBanRootedDevices": true,
   "chat_status": false,
   "elementary_status": true,
