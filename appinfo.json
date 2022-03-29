@@ -10,7 +10,7 @@
   "title": "مجتمع مسار تحت الصيانة مؤقتا",
   "subtitle": "نحن نقوم بصيانة مجتمع مسار لمدة 15 دقيقة.",
   "shouldBanRootedDevices": true,
-  "chat_status": true,
+  "chat_status": false,
   "elementary_status": true,
   "preparatory_status": true,
   "secondary_status": true,
