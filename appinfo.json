@@ -46,14 +46,14 @@
   "secondarySnackbarTitle": "إصدار جديد من مجتمع مسار",
   "secondarySnackbarDesc": " نحن نختبر إصدارا جديدا من مجتمع مسار ونود منك تجربته لنرى كيفية عمل السيرفر الجديد وتحسينه مسقبلا. إضغط هنا للتوجه إلى الإصدار الجديد.",
 
-  "isSnackbarShowingGlobally": false,
+  "isSnackbarShowingGlobally": true,
   "isGlobalSnackbarClickable": true,
   "isGlobalSnackbarBrowsable": true,
   "isGlobalSnackbarUsingIntent": false,
   "globalNotificationSnackbarClassName": "com.nerbly.moutamadris.activities.VoteActivity",
-  "globalNotificationSnackbarGoTo": "https://bit.ly/3hElAs7",
-  "globalSnackbarTitle": "هل تود أن تحصل على نجمة مميزة بجانب إسمك في مجتمع مسار؟",
-  "globalSnackbarDesc": "يمكنك الحصول على شارة بجانب إسمك مثل تاج أو نجمة مباشرة عبر الضغط هنا ثم التصويت على تطبيقنا، يمكنك الإختيار بين العديد من الشارات المميزة.",
+  "globalNotificationSnackbarGoTo": "https://shorturl.at/jCDG4",
+  "globalSnackbarTitle": "ما الميزات التي تود رؤيتها في التطبيق؟",
+  "globalSnackbarDesc": "نود إضافة ميزات جديدة للتطبيق ونحتاج رأيك حول الموضوع، إضغط هنا وأخبرنا بالميزات التي تريدها أن تكون في التطبيق.",
 
 
   "verified_users": [
