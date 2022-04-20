@@ -1,7 +1,7 @@
 {
   "NOTE_FOR ANYONE_WHO_IS_READING_THIS": "WTF ARE YOU DOING HERE",
   "app_status": true,
-  "allowed_version": 100,
+  "allowed_version": 105,
   
   "isAudioEnabled": true,
   "isGIFEnabled": true,
