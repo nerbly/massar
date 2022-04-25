@@ -43,7 +43,7 @@
     "title_ar": "حل مشكل عدم إشتغال خدمة مسار على أورونج",
     "title_fr": "Comment résoudre le problème Massar sur Orange?",
     "subtitle_ar": "لاحظنا مؤخرا أن خدمة مسار لا تشتغل على شبكة أورونج بسبب مشكل في الشبكة. لإصلاح هذا المشكل يجب عليك تغيير الـAPN الخاص بك في هاتفك إلى orange.ma، في حالة ليست لديك خبرة في هذا المجال، يرجى التواصل مع شخص آخر ليساعدك في الأمر.",
-    "subtitle_fr": "",
+    "subtitle_fr": "Nous avons récemment remarqué que le service Massar ne fonctionnait pas sur Orange en raison d'un problème de réseau. Pour résoudre ce problème, vous devez changer votre APN sur votre téléphone en orange.ma, au cas où vous n'auriez aucune expérience dans ce domaine, veuillez contacter quelqu'un d'autre pour vous aider.",
     "image": "https://nerbly.github.io/massar/help/media/img5.jpg",
     "isTitled": "true",
     "isSubtitled": "true",
